@@ -25,7 +25,7 @@ Welcome to the **freaking best** personal portfolio on GitHub! I'm Gianluca Mene
 
 
 
-## 🚀 Projects That Redefine Awesome (to be completed this section)
+## 🚀 Projects That Redefine Awesome
 
 ### **1. Malaria Detection with Deep Learning** 🌟     
 - **💡 Description**: A deep learning model trained to detect malaria-infected cells in microscopic images with high accuracy, utilizing CNNs and TensorFlow.
