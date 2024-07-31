@@ -1,4 +1,4 @@
-# 💥 Gianluca Meneghetti 💥
+# Gianluca Meneghetti
 
 <img src="gmlogo.png" alt="logo" width="100"/>
 
