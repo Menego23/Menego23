@@ -1,8 +1,9 @@
 # 💥 Gianluca Meneghetti 💥
 
+<img src="gmlogo.png" alt="logo" width="100"/>
+
 ### 👨‍💻 Machine Learning Engineer | Milan, Italy
 
-![Logo](gmlogo.png)
 
 Welcome to the **freaking best** personal portfolio on GitHub! I'm Gianluca Meneghetti, a Machine Learning Engineer who doesn't just think outside the box—I destroy the box. Whether it's Computer Vision, Deep Learning, or making Transformers dance, I'm here to show you what cutting-edge AI looks like.
 
