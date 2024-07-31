@@ -1,16 +1,43 @@
-## Hi there 👋
+# Gianluca Meneghetti 
 
-<!--
-**Menego23/Menego23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Machine Learning Engineer | Milan, Italy
 
-Here are some ideas to get you started:
+Welcome to my personal portfolio repository! I'm Gianluca Meneghetti, a passionate Machine Learning Engineer based in Milan, Italy. I specialize in developing machine learning models with a focus on computer vision, data analysis, and end-to-end ML solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills
+
+- **Machine Learning:** Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering
+- **Computer Vision:** Object Detection, Image Classification, Segmentation
+- **Deep Learning:** Neural Networks, CNNs, Transfer Learning
+- **NLP & Transformers:** Hugging Face, BERT, GPT, Transformer models, ViT
+- **Programming Languages:** Python, SQL
+- **Tools & Frameworks:** TensorFlow, Keras, OpenCV, Scikit-learn
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Cloud & DevOps:** AWS Cloud Practitioner, AWS Machine Learning Specialist (in progress 🔃)
+
+
+## 📂 Projects (section to finish)👷🏻👷🏻‍♂️⚠️👷🏻‍♀️👷🏻‍♂️⚠️
+
+### 1. **Project Name**
+   - **Description:** 
+   - **Technologies:**
+   - **Repository Link:**
+
+## 📫 Contact Me
+
+Feel free to reach out to me if you're interested in collaborating on a project or just want to connect.
+
+- **Email:** gianluca.meneghetti@outlook.com
+- **LinkedIn:** [Gianluca Meneghetti](https://www.linkedin.com/in/gianluca-meneghetti-3b520325b/)
+- **GitHub:** [Menego23](https://github.com/Menego23)
+- **YouTube** [NeuralFlare](https://www.youtube.com/@NeuralFlare)
+
+## 💬 Let's Connect!
+
+I'm open to networking with fellow engineers, researchers, and tech enthusiasts. Feel free to drop a message or connect with me on LinkedIn.
+
+
+
+
+>Thank you for visiting my portfolio! 😊
