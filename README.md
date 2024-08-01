@@ -15,11 +15,11 @@ Welcome to the **freaking best** personal portfolio on GitHub! I'm Gianluca Mene
 ### **Core Competencies**
 
 - **Machine Learning**: Turning data into gold—Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
-- **Computer Vision**: I make machines *see*—Object Detection, Image Classification, Segmentation
+- **Computer Vision**: Object Detection, Image Classification, Segmentation
 - **Deep Learning**: The neural network whisperer—CNNs, Transfer Learning, Generative Models
 - **NLP & Transformers**: BERT, GPT, ViT
 - **Programming Languages**: Python (my sword), SQL (my shield)
-- **Tools & Frameworks**: TensorFlow, Keras, OpenCV, Scikit-learn, Hugging Face, Pandas, Numpy
+- **Tools & Frameworks**: TensorFlow(+ TF Models), Keras, OpenCV, Scikit-learn, Hugging Face, Pandas, Numpy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Cloud & DevOps**: AWS Cloud Practitioner, AWS ML Specialist (loading… 🔃)
 
