@@ -14,7 +14,7 @@ Welcome to the **freaking best** personal portfolio on GitHub! I'm Gianluca Mene
 
 ### **Core Competencies**
 
-- **Machine Learning**: Turning data into gold—Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
+- **Machine Learning**: Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
 - **Computer Vision**: Object Detection, Image Classification, Segmentation
 - **Deep Learning**: The neural network whisperer—CNNs, Transfer Learning, Generative Models
 - **NLP & Transformers**: BERT, GPT, ViT
