@@ -17,11 +17,11 @@ Welcome to the **freaking best** personal portfolio on GitHub! I'm Gianluca Mene
 - **Machine Learning**: Turning data into gold—Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
 - **Computer Vision**: I make machines *see*—Object Detection, Image Classification, Segmentation
 - **Deep Learning**: The neural network whisperer—CNNs, Transfer Learning, Generative Models
-- **NLP & Transformers**: Language models that talk back—Hugging Face, BERT, GPT, ViT
+- **NLP & Transformers**: BERT, GPT, ViT
 - **Programming Languages**: Python (my sword), SQL (my shield)
-- **Tools & Frameworks**: TensorFlow, Keras, OpenCV, Scikit-learn, Hugging Face, PyTorch
-- **Data Visualization**: I don’t just show data—I tell its story—Matplotlib, Seaborn, Plotly
-- **Cloud & DevOps**: The sky’s not the limit—AWS Cloud Practitioner, AWS ML Specialist (loading… 🔃)
+- **Tools & Frameworks**: TensorFlow, Keras, OpenCV, Scikit-learn, Hugging Face, Pandas, Numpy
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Cloud & DevOps**: AWS Cloud Practitioner, AWS ML Specialist (loading… 🔃)
 
 
 
