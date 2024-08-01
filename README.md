@@ -4,11 +4,11 @@
 
 ### Machine Learning Engineer | Milan, Italy
 
----
+
 
 Welcome to my professional portfolio. I'm Gianluca Meneghetti, a Machine Learning Engineer dedicated to advancing AI technologies. My work spans across Computer Vision, Deep Learning, and Natural Language Processing, with a focus on delivering innovative and impactful solutions.
 
----
+
 
 ## Skills & Expertise
 
@@ -25,7 +25,7 @@ Welcome to my professional portfolio. I'm Gianluca Meneghetti, a Machine Learnin
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Cloud & DevOps**: AWS Cloud Practitioner, AWS Machine Learning Specialist (in progress)
 
----
+
 
 ## Featured Projects
 
@@ -35,13 +35,13 @@ Welcome to my professional portfolio. I'm Gianluca Meneghetti, a Machine Learnin
 
 Additional projects will be added soon.
 
----
+
 
 ## Professional Contributions
 
 While some of my most significant projects are part of confidential professional engagements, those showcased here reflect the level of work I consistently deliver and my commitment to advancing the field of machine learning.
 
----
+
 
 ## Certifications & Ongoing Learning
 
@@ -49,21 +49,21 @@ While some of my most significant projects are part of confidential professional
 - **AWS Machine Learning Specialty** (in progress) - [GitHub Repository](https://github.com/Menego23/AWS-ML-Specialty)
 - **Hugging Face Transformer Models**
 
----
+
 
 ## Ongoing Development
 
 - **Current Focus**: Mastering Machine Learning Design Patterns
 - **Next Objective**: Advanced Natural Language Processing Techniques
 
----
+
 
 ## Professional Philosophy
 
 > _"Mastery is achieved through consistent practice and an unwavering enthusiasm for the fundamentals."_  
 > — **James Clear**
 
----
+
 
 ## Connect with Me
 
@@ -74,7 +74,7 @@ I welcome the opportunity to connect with fellow professionals and explore colla
 - **GitHub**: [Menego23](https://github.com/Menego23)
 - **YouTube**: [NeuralFlare](https://www.youtube.com/@NeuralFlare)
 
----
+
 
 ## Closing Thoughts
 
@@ -82,7 +82,7 @@ Thank you for visiting my portfolio. I am committed to shaping the future of mac
 
 > "The most effective way to predict the future is to create it."
 
----
+
 
 ![Footer](https://yourcustomfooterurl.com)
 
