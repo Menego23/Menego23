@@ -42,7 +42,7 @@ Many of the impactful projects I have worked on are part of my professional enga
 ## 🎓 Certifications & Ongoing Mastery
 
 - **AWS Cloud Practitioner** 🟢
-- **AWS Machine Learning Specialist** (In Progress 🔄)
+- **AWS Machine Learning Specialist --in progress🔄** [Repo AWS ML Specialty](https://github.com/Menego23/AWS-ML-Specialty)
 - **Hugging Face Transformer Models** 
 
 
