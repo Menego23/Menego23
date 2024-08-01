@@ -60,7 +60,8 @@ While some of my most significant projects are part of confidential professional
 
 ## Professional Philosophy
 
-> _"Mastery is achieved through consistent practice and an unwavering enthusiasm for the fundamentals."_  
+> _"Mastery requires lots of practice. But the more you practice something, the more boring and routine it becomes. Thus, an essential component of mastery is the ability to maintain your enthusiasm. The master continues to find the fundamentals interesting."_
+> 
 > — **James Clear**
 
 
