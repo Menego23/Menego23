@@ -2,84 +2,88 @@
 
 <img src="gmlogo.png" alt="logo" width="100"/>
 
-### 👨‍💻 Machine Learning Engineer | Milan, Italy
+### Machine Learning Engineer | Milan, Italy
 
+---
 
-Welcome to the **freaking best** personal portfolio on GitHub! I'm Gianluca Meneghetti, a Machine Learning Engineer who doesn't just think outside the box—I destroy the box. Whether it's Computer Vision, Deep Learning, or making Transformers dance, I'm here to show you what cutting-edge AI looks like.
+Welcome to my professional portfolio. I'm Gianluca Meneghetti, a Machine Learning Engineer dedicated to advancing AI technologies. My work spans across Computer Vision, Deep Learning, and Natural Language Processing, with a focus on delivering innovative and impactful solutions.
 
+---
 
-## 🛠️ My Arsenal of Skills
+## Skills & Expertise
 
-> **"Machine learning is not just a skill—it's an art."**
+> **"Machine learning is not merely a skill—it is a discipline."**
 
-### **Core Competencies**
+### Core Competencies
 
 - **Machine Learning**: Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
 - **Computer Vision**: Object Detection, Image Classification, Segmentation
-- **Deep Learning**: The neural network whisperer—CNNs, Transfer Learning, Generative Models
-- **NLP & Transformers**: BERT, GPT, ViT
-- **Programming Languages**: Python (my sword), SQL (my shield)
-- **Tools & Frameworks**: TensorFlow(+ TF Models), Keras, OpenCV, Scikit-learn, Hugging Face, Pandas, Numpy
+- **Deep Learning**: Convolutional Neural Networks (CNNs), Transfer Learning, Generative Models
+- **Natural Language Processing & Transformers**: BERT, GPT, Vision Transformers (ViT)
+- **Programming Languages**: Python, SQL
+- **Tools & Frameworks**: TensorFlow, Keras, OpenCV, Scikit-learn, Hugging Face, Pandas, Numpy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Cloud & DevOps**: AWS Cloud Practitioner, AWS ML Specialist (loading… 🔃)
+- **Cloud & DevOps**: AWS Cloud Practitioner, AWS Machine Learning Specialist (in progress)
 
+---
 
+## Featured Projects
 
-## 🚀 Projects That Redefine Awesome
+### Malaria Detection with Deep Learning
+- **Description**: Developed a deep learning model to accurately detect malaria-infected cells from microscopic images using Convolutional Neural Networks (CNNs) and TensorFlow.
+- **Repository**: [GitHub Link](https://github.com/Menego23/Malaria_detection_LeNet)
 
-### **1. Malaria Detection with Deep Learning** 🌟     
-- **💡 Description**: A deep learning model trained to detect malaria-infected cells in microscopic images with high accuracy, utilizing CNNs and TensorFlow.
-- **🔗 Repository**: [View on GitHub](https://github.com/Menego23/Malaria_detection_LeNet)
+Additional projects will be added soon.
 
-*Stay tuned—more groundbreaking projects coming soon...*
+---
 
-## 📦 Additional Work & Contributions
+## Professional Contributions
 
-Many of the impactful projects I have worked on are part of my professional engagements and thus not included here. However, these projects illustrate the type of work I excel in and am passionate about. 
+While some of my most significant projects are part of confidential professional engagements, those showcased here reflect the level of work I consistently deliver and my commitment to advancing the field of machine learning.
 
+---
 
+## Certifications & Ongoing Learning
 
-## 🎓 Certifications & Ongoing Mastery
+- **AWS Cloud Practitioner**
+- **AWS Machine Learning Specialty** (in progress) - [GitHub Repository](https://github.com/Menego23/AWS-ML-Specialty)
+- **Hugging Face Transformer Models**
 
-- **AWS Cloud Practitioner** 🟢
-- **AWS Machine Learning Specialty --in progress🔄** [Repo AWS ML Specialty](https://github.com/Menego23/AWS-ML-Specialty)
-- **Hugging Face Transformer Models** 
+---
 
+## Ongoing Development
 
-## 🔥 The Hot List
+- **Current Focus**: Mastering Machine Learning Design Patterns
+- **Next Objective**: Advanced Natural Language Processing Techniques
 
-- **Currently Learning**: Machine Learning Design Pattern
-- **Next Big Thing**: NLP in Depth
+---
 
+## Professional Philosophy
 
-## 🏆 Quote
+> _"Mastery is achieved through consistent practice and an unwavering enthusiasm for the fundamentals."_  
+> — **James Clear**
 
-> _"Mastery requires lots of practice. But the more you practice something, the more boring and routine it becomes.
-Thus, an essential component of mastery is the ability to maintain your enthusiasm. The master continues to find the fundamentals interesting."_
+---
 
-- **James Clear**
+## Connect with Me
 
+I welcome the opportunity to connect with fellow professionals and explore collaborative opportunities:
 
-## 💬 Hit Me Up!
-
-I’m always open to connecting with fellow innovators, disruptors, and tech rebels. Drop me a line, challenge me, or just say hi:
-
-- **Email**: gianluca.meneghetti@outlook.com
+- **Email**: [gianluca.meneghetti@outlook.com](mailto:gianluca.meneghetti@outlook.com)
 - **LinkedIn**: [Gianluca Meneghetti](https://www.linkedin.com/in/gianluca-meneghetti-3b520325b/)
 - **GitHub**: [Menego23](https://github.com/Menego23)
 - **YouTube**: [NeuralFlare](https://www.youtube.com/@NeuralFlare)
 
+---
 
-## 💡 Final Thought
+## Closing Thoughts
 
-Life is too short for boring README files. Welcome to the **future** of machine learning portfolios. Thank you for visiting, and remember:
+Thank you for visiting my portfolio. I am committed to shaping the future of machine learning, one project at a time.
 
-> "The best way to predict the future is to create it."
+> "The most effective way to predict the future is to create it."
 
-
+---
 
 ![Footer](https://yourcustomfooterurl.com)
 
-
-
-**P.S.** If you’ve read this far, you’re awesome. Let’s connect and make something incredible together! 🚀
+*P.S. I look forward to connecting and potentially collaborating on groundbreaking projects.*
