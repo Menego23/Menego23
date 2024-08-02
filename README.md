@@ -84,7 +84,4 @@ Thank you for visiting my portfolio. I am committed to shaping the future of mac
 > "The most effective way to predict the future is to create it."
 
 
-
-![Footer](https://yourcustomfooterurl.com)
-
 *P.S. I look forward to connecting and potentially collaborating on groundbreaking projects.*
